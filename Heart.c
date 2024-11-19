@@ -5,7 +5,7 @@
 {
     int size = 7;
  
-    char* message = " Shreya Majumder  ";
+    char* message = " Amlan Deb Nath  ";
     int n = strlen(message);
  
     int print_line = 2;
